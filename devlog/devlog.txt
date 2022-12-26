@@ -1,0 +1,30 @@
+12/24/2022 :
+
+
+read the instructions downloaded all the required appliations , had a little trouble , so used the command prompt. 
+As of right now not very familiar wit javaScript so I will do research and learn the syntax and learn the express server. 
+
+I watched a couple youtube videos giving the basics on javascript , so i have a little bit more knowledge when reading these codes
+I also did a lot of research on what backend and frontend meant , I want to have complete knowedge on the basics before jumping into a complicated
+assessment like this
+
+Once I got a little understanding of the java script syntax , I noticed the hero.JS class and realized i needed to make a Quest.js.
+I made quest with the attributes needed , name , description and hero id. I got this info from the readme. In class when we learned Java , 
+we touched on the key word "this" ,,seeing it on this code, sparked something i have previosly learned. I am familiar with "this"
+
+also i noticed there are a lot of mirroring going on with the heroes and quests
+
+
+12/25/2022
+
+watched a couple more videos and got familiar with javaScript , and backend development 
+
+my experince with java helped me understand the DB class , especially with the get methods and , change , delete , and passing in the parameters
+we did a lot of extending classes , polymorphism , inhertiance etc
+
+after watching more videos I understood how to update the router for Quests , using some of the methods from the DB it was able to help me create 
+the quest router. I was stuck here for a long time , but once I realized the assigmed tasks I knew what to do 
+
+the tasks in the router class gave me trouble, i did my best to mirror the quest router as close as i can to heroes router
+
+

@@ -19,7 +19,7 @@ app.use(questsRouter());
 
 // Initial base route
 app.get('/', (req, res) => {
-    res.send('Welcome to the Backend API!');
+    res.send('Welcome to the Backend API?!');
 });
 
 app.listen(3000, () => {
